@@ -1,0 +1,72 @@
+@media screen and (max-width: 560px) {
+    .container {
+        background-color: rgb(90, 200, 255);
+        width: 100%;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+        
+    }
+
+.bango  {
+    display:flex;
+    margin-bottom: 10px;
+}
+
+
+    .english{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        font-size: 15px;
+    }
+    .english > #eng{
+        width: 80%;
+    }
+    .english > #en{
+        width: 20%;
+        height: 50px;
+    }
+
+    
+
+
+
+    .japanese{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        font-size: 15px;
+    }
+    .japanese > #jap{
+        width: 80%;
+    }
+    .japanese > #ja{
+        width: 20%;
+        height: 50px;
+    }
+
+    .neba{
+        text-align: right;
+}
+
+
+
+
+    footer{
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        margin-top: 80px;
+        font-size: 10px;
+        text-align: center;
+    }
+
+    a:visited {
+        color:#f8aaaa;
+        }
+
+
+
+
+}
