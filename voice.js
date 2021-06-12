@@ -3,7 +3,8 @@ var ja = document.getElementById("ja"); //document.getElementByIdを使ってHTM
 var next = document.getElementById("next"); //document.getElementByIdを使ってHTMLのbtnというIDを取得
 var back = document.getElementById("back"); //document.getElementByIdを使ってHTMLのbtnというIDを取得
 
-var eng=["Hello","How are you?","I’m so pleased to meet you."]
+var eng=["Hello","How are you?","I’m so pleased to meet you.","This is a new book.","This dictionary is new.","Is that an important book? - Yes, it is.","Is that book important? - No, it isn't.","This is not long.","That is not a beautiful flower.","This milk is not very tasty.","Is this tea or coffee? - It is coffee."]
+
 var jap=["こんにちは","お元気ですか？","お会いできてとてもうれしいです。","これは新しい本です。","この辞書は新しい。","あれは大切な本ですか? - はい、そうです。","あの本は大切ですか? - いいえ、大切ではありません。","これは長くない。","あれは美しい花ではない。","この牛乳はあまり美味しくない。","これはお茶ですか、それともコーヒーですか? - コーヒーです。"];
 
 
